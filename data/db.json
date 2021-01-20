@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "VueJS + Vuex",
+      "details": "VueJS project opzetten en nog meer dingen",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "GraphQL",
+      "details": "Samen met Apollo",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
